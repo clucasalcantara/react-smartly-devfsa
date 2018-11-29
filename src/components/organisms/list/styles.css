@@ -1,0 +1,6 @@
+.list-cards {
+  padding: 1em;
+  position: relative;
+  z-index: 2;
+  background-color: #ccc;
+}

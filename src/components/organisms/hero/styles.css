@@ -1,0 +1,10 @@
+.hero-img {
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  position: fixed;
+  top: 80px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
